@@ -1,3 +1,3 @@
-# god
-# auto-issue-title-numbering
 # oz
+
+Hello World
